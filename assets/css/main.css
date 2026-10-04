@@ -1,0 +1,127 @@
+body{
+    background-color: #161616;
+}
+
+.Login-Form{
+    width: 300px;
+    height: 350px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000000;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.Login-Form h1{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.Login-Form label{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Login-Form input[type="text"],
+.Login-Form input[type="password"]{
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.Login-Form button{
+    width: 100%;
+    padding: 10px;
+    background-color: #070707;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Login-Form button:hover{
+    background-color: #dfdfdf;
+    color:#000000
+}
+
+.Login-Form hr{
+    border: 1px solid #ffffff;
+    margin: 20px 0;
+}
+
+.Login-Form p{
+    text-align: center;
+    color: #ffffff;
+}
+
+.Login-Form a{
+    color: #cfcccc;
+    text-decoration: none;
+}
+
+.Signup-Form{
+    width: 300px;
+    height: 500px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000000;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.Signup-Form h1{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.Signup-Form label{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.Signup-Form input[type="text"],
+.Signup-Form input[type="email"],
+.Signup-Form input[type="password"]{
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.Signup-Form button{
+    width: 100%;
+    padding: 10px;
+    background-color: #070707;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Signup-Form button:hover{
+    background-color: #dfdfdf;
+    color:#000000
+}
+
+.Signup-Form hr{
+    border: 1px solid #ffffff;
+    margin: 20px 0;
+}
+
+.Signup-Form p{
+    text-align: center;
+    color: #ffffff;
+}
+
+.Signup-Form a{
+    color: #cfcccc;
+    text-decoration: none;
+}
+
